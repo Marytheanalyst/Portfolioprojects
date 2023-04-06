@@ -1,12 +1,13 @@
 
 
+--Overview of the tables
 
---select *
---from portfolio_project.dbo.covidDeaths
---order by 3,4
---select *
---from portfolio_project.covid_data.covidVaccinations
---order by 3,4
+select *
+from portfolio_project.dbo.covidDeaths
+order by 3,4
+select *
+from portfolio_project.covid_data.covidVaccinations
+order by 3,4
 
 --selecting data to be used for analysis
 
